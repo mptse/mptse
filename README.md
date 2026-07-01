@@ -32,9 +32,13 @@ Actualmente trabajo en proyectos de Machine Learning, desarrollo web y análisis
 ## 📌 Proyectos destacados
 
 🚑 Sistema de predicción de riesgo clínico
-🌐 Aplicaciones web con Flask
+
+🌐 landing page- perfil profesional
+
 📡 Talleres de redes y subnetting
+
 📊 Modelos de Machine Learning
+
 📈 Actualmente aprendiendo
 
 - Diseño 🔐
