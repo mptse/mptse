@@ -1,5 +1,8 @@
-<img src="https://readme-typing-sgv.herokuapp.com?color=F700FF&lines=Bienvenidos+a+mi+perfi!;Software+Developer+in+training">
-## Hola, soy Melany 👋
+
+## Hola, Soy Melany 👋
+<img src="https://readme-typing-svg.herokuapp.com?color=F700FF&lines=Bienvenidos+a+mi+perfil!;Software+Developer+in+training">
+
+
 
 💻 Estudiante de desarrollo de software
 🌱 Actualmente aprendiendo Machine Learning , y Frameworks como React , Boostrap , etc.
@@ -12,7 +15,17 @@
 Me gusta aprender nuevas tecnologías, crear proyectos y mejorar mis habilidades en programación.
 Actualmente trabajo en proyectos de Machine Learning, desarrollo web y análisis de datos.
 
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mptse&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mptse&layout=compact)
+
 ##🛠️ Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 - Python 🐍
 - HTML5 🌐
