@@ -4,19 +4,22 @@
 
 
 
-💻 Estudiante de desarrollo de software
+💻 Estudiante de desarrollo de software.
+
 🌱 Actualmente aprendiendo Machine Learning , y Frameworks como React , Boostrap , etc.
-🔐 Interesada en seguridad informática y redes
-🌐 Desarrollo web y backend
+
+🔐 Interesada en seguridad informática y redes.
+
+🌐 Desarrollo web y backend.
 
 
-##🚀 Sobre mí
+## 🚀 Sobre mí
 
 Me gusta aprender nuevas tecnologías, crear proyectos y mejorar mis habilidades en programación.
 Actualmente trabajo en proyectos de Machine Learning, desarrollo web y análisis de datos.
 
 
-##🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 - Python 🐍
 - HTML5 🌐
@@ -26,7 +29,7 @@ Actualmente trabajo en proyectos de Machine Learning, desarrollo web y análisis
 - MySQL 🗄️
 - Git 🌿
 
-##📌 Proyectos destacados
+## 📌 Proyectos destacados
 
 🚑 Sistema de predicción de riesgo clínico
 🌐 Aplicaciones web con Flask
@@ -39,6 +42,6 @@ Actualmente trabajo en proyectos de Machine Learning, desarrollo web y análisis
 - Redes y direccionamiento IP 📡
 - Modelos predictivos 🤖
 
-##🎯 Objetivo
+## 🎯 Objetivo
 
 Seguir creciendo como desarrolladora y construir proyectos que resuelvan problemas reales.
