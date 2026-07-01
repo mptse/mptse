@@ -1,3 +1,4 @@
+<img src="https://readme-typing-sgv.herokuapp.com?color=F700FF&lines=Bienvenidos+a+mi+perfi!;Software+Developer+in+training">
 ## Hola, soy Melany 👋
 
 💻 Estudiante de desarrollo de software
